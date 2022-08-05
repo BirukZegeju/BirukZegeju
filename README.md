@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BirukZegeju
+- 👋 Hi, I’m BirukZegeju
 - 👀 I’m currently working as a Lead Solution Architect @Commercila Bank of Ethiopia working on Android App Development and Web App And API in (.NET)
 - 🌱 I’m currently learning Flutter to enable my Mobile App development address the two basic OS Platforms in the Market(IOS and Android)
 - 💞️ I’m looking to collaborate on Projects specially on Android Mobile App Development and Web Application/API development in (ASP .NET)
