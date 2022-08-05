@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BirukZegeju
 - 👀 I’m interested in Android App Development Projects
-- 🌱 I’m currently learning Flutter to enable my Mobile App development address the two basic OS Platforms in the Android Market(IOS and Android)
+- 🌱 I’m currently learning Flutter to enable my Mobile App development address the two basic OS Platforms in the Market(IOS and Android)
 - 💞️ I’m looking to collaborate on different Projects specially on Android Mobile App Development and Web Application/API development in (ASP .NET)
 - 📫 You can contact me via the Following options
 - Direct Phone Calls(+251-965183828)
